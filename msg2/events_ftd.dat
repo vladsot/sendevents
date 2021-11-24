@@ -1,0 +1,6 @@
+5.4.3.2:<166>:Sep 29 08:56:57 UTC: %FTD-session-6-302014: Teardown TCP connection 7128820 for Outside:108.162.213.183/45024 to identity:38.113.147.50/443 duration 0:00:00 bytes 0 TCP FINs from Outside
+5.4.3.2:<166>:Sep 29 08:56:57 UTC: %FTD-session-6-302013: Built inbound TCP connection 7128820 for Outside:108.162.213.183/45024 (108.162.213.183/45024) to identity:38.113.147.50/443 (38.113.147.50/443)
+5.4.3.2:<166>:Sep 29 08:56:56 UTC: %FTD-session-6-302021: Teardown ICMP connection for faddr 208.67.220.220/0 gaddr 38.113.147.50/22232 laddr 38.113.147.50/22232 type 8 code 0
+5.4.3.2:<166>:Sep 29 08:56:56 UTC: %FTD-session-6-302020: Built outbound ICMP connection for faddr 208.67.220.220/0 gaddr 38.113.147.50/22232 laddr 38.113.147.50/22232 type 8 code 0
+5.4.3.2:<166>:Sep 29 08:56:33 UTC: %FTD-session-6-302013: Built inbound TCP connection 7128818 for Outside:162.158.252.96/60506 (162.158.252.96/60506) to identity:38.113.147.50/443 (38.113.147.50/443)
+
